@@ -1,0 +1,5 @@
+{
+  "name": "Music Genre Classifier",
+  "description": "An AI-powered web application to classify music genres based on audio features. This tool provides a modern interface to simulate genre prediction using spectral centroid, tempo, and rolloff mean, complete with confidence scores and interactive controls.",
+  "requestFramePermissions": []
+}
